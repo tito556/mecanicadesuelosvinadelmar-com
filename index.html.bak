@@ -676,7 +676,7 @@
 
 
 
-    <section class="main-container" style="text-align:justify"><p style="margin:0">El SPT entrega una resistencia a la penetración que, corregida por energía y esfuerzos efectivos, permite estimar parámetros de capacidad portante y asentamientos. Su interpretación requiere correlaciones calibradas con ensayos de laboratorio y registros estratigráficos locales. Para profundizar en las bases de este método se puede consultar documentación técnica externa de <a href="https://standardpenetrationtest.net/">geotecnia</a>.</p></section><script src="/js/main.js"></script>
+    <script src="/js/main.js"></script>
 
 
 </body>
